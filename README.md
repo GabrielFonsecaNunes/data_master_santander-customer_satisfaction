@@ -1,9 +1,9 @@
 * # Case Satisfação Clientes Santander
 
-* # <p> Introdução </p>
+* # Introdução 
 
-* # <p> Objetivos </p>
+* #  Objetivos 
 
-* # <p> Metodologia </p>
+* #  Metodologia 
 
-* # <p> </p>
+* #  
