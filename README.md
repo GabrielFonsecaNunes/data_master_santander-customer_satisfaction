@@ -1,8 +1,5 @@
 # Case Satisfação Clientes Santander
-
-* <b> Introdução </b>
-
-Problema de Negócio
+* <b> Problema de Negócio </b>
 
 O Banco Santander quer identificar clientes insatisfeitos no inicio do relacionamento. Isso
 irá permitir que o Santander adote medidas proativas para melhorar a felicidade de um cliente
